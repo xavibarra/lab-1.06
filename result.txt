@@ -1,0 +1,10 @@
+[Employee{name='Liam', age=19, salary=20000.0}
+, Employee{name='Noah', age=23, salary=25000.0}
+, Employee{name='Oliver', age=34, salary=30000.0}
+, Employee{name='Amelia', age=45, salary=30000.0}
+, Employee{name='Elijah', age=20, salary=25000.0}
+, Employee{name='Charlotte', age=28, salary=20000.0}
+, Employee{name='Emma', age=23, salary=35000.0}
+, Employee{name='Olivia', age=23, salary=20000.0}
+, Employee{name='John', age=39, salary=25000.0}
+, Employee{name='Alex', age=42, salary=30000.0}]
